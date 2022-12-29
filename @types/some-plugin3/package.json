@@ -1,0 +1,12 @@
+{
+  "name": "@abdurahmanus/type-some-plugin3",
+  "version": "1.0.0",
+  "description": "",
+  "types": "index.d.ts",
+  "keywords": [],
+  "author": "abdurahmanus",
+  "license": "ISC",
+  "dependencies": {
+    "@abdurahmanus/core": "^1.0.1"
+  }
+}

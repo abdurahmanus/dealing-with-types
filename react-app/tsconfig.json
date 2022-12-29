@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "types": [
+      "@abdurahmanus/type-some-plugin",
+      "@abdurahmanus/type-some-plugin2",
+      "@abdurahmanus/type-some-plugin3",
+      "@abdurahmanus/type-some-plugin-multiple-declaration-merging"
+    ]
+  },
+  "include": ["src"]
+}
