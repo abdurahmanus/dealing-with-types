@@ -1,0 +1,19 @@
+{
+  "name": "@abdurahmanus/loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "abdurahmanus",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@abdurahmanus/core": "^1.0.1"
+  }
+}
